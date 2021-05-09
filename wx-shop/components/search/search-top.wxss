@@ -1,0 +1,15 @@
+/* components/search/search-top.wxss */
+.red{
+  background-color: #eb4450;
+  height: 90rpx;
+}
+.box{
+  background-color: #fff;
+  height: 80rpx;
+  width: 97%;
+  border-radius: 14rpx;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 30rpx;
+}

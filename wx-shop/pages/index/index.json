@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "search-top":"/components/search/search-top",
+    "swiper-index":"/components/swiper/swiper"
+  }
+}
